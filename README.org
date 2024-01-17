@@ -1,8 +1,10 @@
 * oylenshpeegul
 
-I'm "[[https://oylenshpeegul.gitlab.io/blog/posts/20230612/][Timmy from Baltimore]]."
+** Hi, I'm "[[https://oylenshpeegul.gitlab.io/blog/posts/20230612/][Timmy from Baltimore]]!"
 
-[[https://oylenshpeegul.gitlab.io/from-perl-to-rust/][From Perl to Rust]], a guide to learning Rust for folks who already know Perl.
+** I wrote [[https://oylenshpeegul.gitlab.io/from-perl-to-rust/][From Perl to Rust]], a guide to learning Rust for folks who already know Perl.
+*** Note that Perl and Rust are both real towns in Germany. I created that map on the first page by asking [[https://www.openstreetmap.org/][OpenStreetMap]] for directions. Then I added the names in big letters with [[https://www.gimp.org/][GIMP]].
 
-[[https://oylenshpeegul.gitlab.io/blog/posts/][My blog]], where I sometimes write about programming, books, movies, and anything else that strikes my fancy.
+** I also [[https://oylenshpeegul.gitlab.io/blog/posts/][have a blog]], where I sometimes write about programming, books, movies, and anything else that strikes my fancy.
+
 
