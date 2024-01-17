@@ -1,2 +1,8 @@
 * oylenshpeegul
 
+I'm "[[https://oylenshpeegul.gitlab.io/blog/posts/20230612/][Timmy from Baltimore]]."
+
+** [[https://oylenshpeegul.gitlab.io/from-perl-to-rust/][From Perl to Rust]], a guide to learning Rust for folks who already know Perl.
+
+** [[https://oylenshpeegul.gitlab.io/blog/posts/][My blog]], where I sometimes post about programming, books, movies, and anything else that strikes my fancy.
+
